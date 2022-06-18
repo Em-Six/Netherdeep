@@ -28,7 +28,7 @@ Any value can be used on any ability, but eachvalue can only be used once.
 ###### Backstory
 Please consider your backstory for your character, which will be explored through the campaign as you roleplay. It is not necessary for you to explain this to other players, if you would prefer this to be revealed as the campaign progresses.
 You will be required to have known each other for a short time before the campaign starts, so please include room within your backstory for the following questions to be answered:
-- Why are you in Jigow?
+- Why are you in Jigow?  (See below for Jigow)
 - How did you get there (if not native)?
 - How did you meet the party? (Please figure this one out as a group)
 
