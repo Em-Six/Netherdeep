@@ -35,3 +35,20 @@ You will be required to have known each other for a short time before the campai
 The [Inverted Heroic Chronicle](https://docs.google.com/document/d/e/2PACX-1vR2djBuKmG3rx1PzGn6md34LXQhuqDfUOUoUHWxG64ZFK8s1SPE-DR0qzVjoFqGXXlg3bK5x8B9xkdX/pub) can be used to find out where a particular race may have grown up, which can assist you in developing your backstory.
 
 Please use the [Heroic Chronicle](https://5e.tools/book.html#egw,5,heroic%20chronicle) featured in The Explorer's Guide to Wildmount to assist you in coming up with ideas for your backstory (you do not need to roll for the tables, select your preference). It gives a good step by step on how to create a character that feels beleivable for the setting. Choose a fateful moment that you feel will benefit your backstory if you choose, or create your own similar in nature to the ones featured.
+
+##### What the Characters Know
+
+Characters begin the adventure knowing the following facts.
+
+###### Kryn Dynasty
+The Kryn Dynasty is the dominant nation in Xhorhas. It was founded by a drow queen named Leylas Kryn, who fled the Underdark and the tyrannical rule of Lolth the Spider Queen along with her disciples. The Bright Queen still rules the dynasty centuries later, and its cities contain more than just drow. Orcs, goblinoids, tieflings, humans, and many others call the cities of the dynasty their home. Countless more denizens of the dynasty are nomads who roam the wastes in clans, hunting mastodons and other Xhorhasian megafauna.
+
+###### Jigow
+This coastal settlement is actually a string of villages that are home to a collection of folk from all over Xhorhas. Goblin and orc clans founded Jigow, which explains why the settlement is governed by two elders—a goblin and an orc. The Aurora Watch (the military arm of the Kryn Dynasty) maintains a presence here, under the command of a drow called Taskhand Durth Mirimm.
+
+Townsfolk tend to be competitive, and friendly rivalries are commonplace. Most of Jigow's residents live in a central region called the Jumble.
+
+###### The Luxon
+The official deity of the Kryn Dynasty, whose symbol appears on the nation's heraldry, is the Luxon. This mysterious divine entity of light and rebirth has granted its faithful several esoteric secrets, the greatest of which is consecution—the act of preparing one's soul for rebirth. Through consecution, some people within the Kryn Dynasty have lived many lifetimes, often in bodies different from the ones they were first born in. In the sequence of consecution, a drow might become a goblin, then be reborn as a bugbear, then an orc, and so on—all the while gaining greater knowledge about the world through their experiences. This process has no mechanical benefit, but players can make consecution and rebirth an interesting part of their characters' back stories.
+
+If a follower of the Luxon who has undergone the ritual of consecution dies within 100 miles of a Luxon beacon, their soul is ensnared by it and reincarnated within the body of a random Humanoid newborn within 100 miles of the beacon.
