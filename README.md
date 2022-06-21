@@ -41,7 +41,7 @@ Please use the [Heroic Chronicle](https://5e.tools/book.html#egw,5,heroic%20chro
 
 The [Critical Role Wiki](https://criticalrole.fandom.com/wiki/Exandria) features pages on all locations mentioned in the Heroic Chronicle, as well as races, factions, and other lore, so you can research and deepen your backstory.
 
-**If you need/want help with character creation or back story, let me know and I will sit with you to figure it out.**
+**If you need/want help with character creation or backstory, let me know and I will sit with you to figure it out.**
 
 ### What the Characters Know
 
